@@ -29,8 +29,8 @@ global.namaowner = 'GuaAbuzz'
 global.agama = 'Islam'
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6289636827082']
-global.premium = ['6289636827082']
+global.owner = ['+212655693803']
+global.premium = ['+212655693803']
 
 //—————「 Setting Nomor Donasi 」—————//
 //ubah aja kalau ada yg gapunya kasih tanda -
